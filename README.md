@@ -1,5 +1,5 @@
 # Orientações sobre envio da solução
-Faça um _fork_ deste repositório. Lembre-se de deixá-lo público. Não se esqueça: commit e submeta sua solução para o **seu _fork_**. Informe por email ao recrutador o link de seu repositório para que possamos avaliá-lo.
+Faça um _fork_ deste repositório. Lembre-se de deixá-lo público. Não se esqueça: faça os commits e submeta sua solução para o **seu _fork_**. Informe por email ao recrutador o link de seu repositório para que possamos avaliá-lo.
 
 # O código-solução
 Complete a função **_macsByRadio_** de **_app.js_** com sua solução.
